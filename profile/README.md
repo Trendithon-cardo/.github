@@ -21,8 +21,8 @@
 
 |                               Lead(BE Developer)                                |              PM/Design     |              FE Developer           |         FE Developer              |            BE Developer             |
 |:-------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|
-|                      [윤희준](https://github.com/uni-j-uni)                     | [송은지](https://github.com/) |   [오태준](https://github.com/)  |     [강신영](https://github.com/)  |    [강예린](https://github.com/)    |
-| <img src="https://avatars.githubusercontent.com/u/118972548?v=4" width="300" /> | <img src="" width="300" /> | <img src="" width="300" /> | <img src="" width="300" /> | <img src="" width="300" /> |
+|                      [윤희준](https://github.com/uni-j-uni)                     | [송은지](https://github.com/soezng) |   [오태준](https://github.com/taejun0)  |     [강신영](https://github.com/sinyoung6491)  |    [강예린](https://github.com/rkddpfls02)    |
+| <img src="https://avatars.githubusercontent.com/u/118972548?v=4" width="300" /> | <img src="https://avatars.githubusercontent.com/u/163408095?v=4" width="300" /> | <img src="https://avatars.githubusercontent.com/u/164321668?v=4" width="300" /> | <img src="https://avatars.githubusercontent.com/u/138271153?v=4" width="300" /> | <img src="https://avatars.githubusercontent.com/u/140104885?v=4" width="300" /> |
 
 ## 🛠️ 기술 스택(Tech)
 
